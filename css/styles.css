@@ -1,0 +1,28 @@
+.modal-yellow { background-color: #FCF3CF; }
+.modal-green { background-color: #D5F5E3; }
+.modal-red { background-color: #E6B0AA; }
+.modal-orange { background-color: #faba2f; }
+body {
+    background-color: #f4f4f4;
+}
+.container {
+    margin-top: 50px;
+}
+.card {
+    margin-top: 20px;
+}
+.btn-custom {
+    background-color: #007bff;
+    color: white;
+}
+.modal-header, .ui-dialog-titlebar {
+    background-color: #5499C7; 
+    color: white;
+}
+
+#loading {
+    display: none;
+    margin-top: 20px;
+}
+
+

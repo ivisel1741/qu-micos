@@ -1,0 +1,20 @@
+body {
+    align-items: center;
+    background-image: url('images/imagenf');
+    background-size: cover; /* Para ajustar la imagen al tamaño de la pantalla */
+    background-position: center; /* Para centrar la imagen */
+}
+#card{
+background-color: rgb(255, 252, 98);
+width: 950px;
+height: 400px;
+}
+#carouselExampleFade {
+max-width: 900px; /* Cambia el ancho máximo según tus necesidades */
+margin: auto; /* Centrar el carrusel */
+}
+    
+.carousel-item img {
+height: 500px; /* Cambia la altura según tus necesidades */
+object-fit: cover; /* Ajustar el contenido para cubrir el tamaño del contenedor */
+}
